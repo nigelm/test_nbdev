@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test_nbdev"
+  site-url: "https://nigelm.github.io/test_nbdev"
+  description: "An initial test repo for nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/nigelm/test_nbdev"
